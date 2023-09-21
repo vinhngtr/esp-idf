@@ -1,4 +1,7 @@
 # Espressif IoT Development Framework
+- **buil project**: `idf.py build`
+- **Upcode lên ESP32**: `idf.py -p [COM..] flash`
+- **xem kết quả build**: `idf.py -p [COM..] monitor`
 
 * [中文版](./README_CN.md)
 
